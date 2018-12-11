@@ -1,4 +1,4 @@
-# Netlify CMS small-business template
+# Netlify CMS small-business template (tol)
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms).
 
